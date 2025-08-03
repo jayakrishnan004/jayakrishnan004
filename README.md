@@ -1,9 +1,9 @@
 ## ABOUT ME
 
-I am *Jayakrishnan K V, a final-year B.Tech Artificial Intelligence and Data Science student at **St. Joseph's College of Engineering & Technology, Palai (Autonomous)*.  
+I am *Jayakrishnan K V*, a final-year B.Tech Artificial Intelligence and Data Science student at **St. Joseph's College of Engineering & Technology, Palai (Autonomous)**.  
 I'm passionate about solving real-world problems using *AI, **Machine Learning, and **IoT*.
 
-I've represented my college in *national-level tech events, participated and won in **multiple hackathons, and secured **top positions in SAEINDIA national competitions*.  
+I've represented my college in *national-level tech events*, participated and won in multiple hackathons, and secured **top positions in SAEINDIA national competitions**.  
 As an *NCC Cadet Under Officer*, I’ve led and coordinated several technical and discipline-driven initiatives both on and off campus.
 
 
