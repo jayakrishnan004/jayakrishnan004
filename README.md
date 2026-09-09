@@ -9,11 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on experience in AI, Machine Learning, Data Science, and Computer Vision projects, backed by strong analytical and problem-solving skills. **NCC 'C' Certificate** holder with leadership experience. Eager to contribute to forward-thinking teams in **Software Development, AI/ML, or Data Science** roles.
+B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on experience in AI, Machine Learning, Data Science, and Computer Vision projects, backed by strong analytical and problem-solving skills. Eager to contribute to forward-thinking teams in **Software Development, AI/ML, or Data Science** roles.
 
-- 📍 Based in Kottayam, Kerala, India
-- 🔭 Currently focused on: **AI & IoT projects, open-source contributions, cloud deployment, and Git/GitHub practices**
-- 🌱 Learning: **Cloud deployment & MLOps**
+- 🔭 Currently focused on: **AI & Data Science related projects, Machine learning projects, cloud deployment, and Git/GitHub practices**
+- 🌱 Learning: Data Science & Analytics
 - 💬 Ask me about: **Computer Vision, NLP, Machine Learning**
 - 📫 Reach me at: **jayakrishnanvenugopal.2004@gmail.com** | 📱 +91 8593071680
 
@@ -24,8 +23,6 @@ B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on exp
 | Qualification | Institution | Score | Year |
 |---|---|---|---|
 | B.Tech in AI & Data Science | St. Joseph's College of Engineering and Technology, Palai (Autonomous), Kerala | CGPA 7.0 | 2022 – 2026 |
-| Higher Secondary Education (XII) | St. Sebastian's Higher Secondary School, Kadanad, Kerala | 93% | 2022 |
-| SSLC (X) | St. Sebastian's Higher Secondary School, Kadanad, Kerala | 95% | 2020 |
 
 ---
 
@@ -39,10 +36,6 @@ B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on exp
 | **[IoT-Based Emergency Vehicle Alert System](#)** | IoT system that notifies civilian drivers of approaching emergency vehicles to improve traffic response. | IoT, Firebase |
 
 > 💡 More projects coming soon — stay tuned!
-
-*(Replace the `#` links above with the actual repo URLs once you share them, and I can wire those in.)*
-
----
 
 ### 🏆 Achievements
 
