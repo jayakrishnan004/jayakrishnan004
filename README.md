@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayakrishnan K V</h1>
+<h1 align="center">Hi.., I'm Jayakrishnan K V</h1>
 <h3 align="center">AI & Data Science Graduate | Computer Vision • NLP • Machine Learning</h3>
 
 <p align="center">
@@ -91,9 +91,6 @@ B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on exp
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnan004" alt="GitHub Streak" width="48%" />
 </p>
 
-### 🗣️ Languages
-
-English (Read, Write, Speak) · Malayalam (Read, Write, Speak) · Hindi (Read, Write)
 
 ---
 
