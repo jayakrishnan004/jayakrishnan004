@@ -9,12 +9,23 @@
 
 ### 🧑‍💻 About Me
 
-Fresh B.Tech graduate in **Artificial Intelligence & Data Science** with hands-on experience building Computer Vision, NLP, and Machine Learning applications. **NCC 'C' Certificate** holder with strong analytical, leadership, and problem-solving skills. Eager to contribute to forward-thinking teams in **Software Development, AI/ML, or Data Science** roles.
+B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on experience in AI, Machine Learning, Data Science, and Computer Vision projects, backed by strong analytical and problem-solving skills. **NCC 'C' Certificate** holder with leadership experience. Eager to contribute to forward-thinking teams in **Software Development, AI/ML, or Data Science** roles.
 
+- 📍 Based in Kottayam, Kerala, India
 - 🔭 Currently focused on: **AI & IoT projects, open-source contributions, cloud deployment, and Git/GitHub practices**
 - 🌱 Learning: **Cloud deployment & MLOps**
 - 💬 Ask me about: **Computer Vision, NLP, Machine Learning**
-- 📫 Reach me at: **jayakrishnanvenugopal.2004@gmail.com**
+- 📫 Reach me at: **jayakrishnanvenugopal.2004@gmail.com** | 📱 +91 8593071680
+
+---
+
+### 🎓 Education
+
+| Qualification | Institution | Score | Year |
+|---|---|---|---|
+| B.Tech in AI & Data Science | St. Joseph's College of Engineering and Technology, Palai (Autonomous), Kerala | CGPA 7.0 | 2022 – 2026 |
+| Higher Secondary Education (XII) | St. Sebastian's Higher Secondary School, Kadanad, Kerala | 93% | 2022 |
+| SSLC (X) | St. Sebastian's Higher Secondary School, Kadanad, Kerala | 95% | 2020 |
 
 ---
 
@@ -41,6 +52,7 @@ Fresh B.Tech graduate in **Artificial Intelligence & Data Science** with hands-o
   - IoT Domain – Emergency Vehicle Alert System
   - Biomimicry Innovation Challenge – Disaster Prediction
 - 🏅 **Hackathon Winner** — AI-Powered Mental Health Chatbot
+- 🎯 **State Level Participant** — NCC RDC Idea & Innovation Competition
 - 🎤 **Event Coordinator** — IDEASPRINT Ideathon & GenZ for GenAI (National Level Hackathon)
 
 ---
@@ -49,24 +61,33 @@ Fresh B.Tech graduate in **Artificial Intelligence & Data Science** with hands-o
 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Tools & IDEs:**
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+**AI/ML & Computer Vision:**
+![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-412991?style=flat&logo=openai&logoColor=white)
 
-**Design & Productivity:**
+**Data & Visualization:**
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Design Tools:**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**Core Subjects:** Data Structures & Algorithms · Operating Systems · DBMS · Artificial Intelligence · Machine Learning · Data Science
+**Development Tools:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+**Soft Skills:** Collaboration · Team Management · Leadership · Project Execution · Communication · Professionalism
 
 ---
 
@@ -76,6 +97,10 @@ Fresh B.Tech graduate in **Artificial Intelligence & Data Science** with hands-o
   <img src="https://github-readme-stats.vercel.app/api?username=jayakrishnan004&show_icons=true&theme=default" alt="Jayakrishnan's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnan004" alt="GitHub Streak" width="48%" />
 </p>
+
+### 🗣️ Languages
+
+English (Read, Write, Speak) · Malayalam (Read, Write, Speak) · Hindi (Read, Write)
 
 ---
 
