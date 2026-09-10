@@ -2,9 +2,6 @@
 <h3 align="center">AI & Data Science Graduate | Data Analyst </h3>
 <h4 align="center">Computer Vision • NLP • Machine Learning </h4>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayakrishnan004&label=Profile%20views&color=0e75b6&style=flat" alt="jayakrishnan004" />
-</p>
 
 ---
 
