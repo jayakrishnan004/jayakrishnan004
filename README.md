@@ -1,5 +1,6 @@
 <h1 align="center">Hi.., I'm Jayakrishnan K V</h1>
-<h3 align="center">AI & Data Science Graduate | Computer Vision • NLP • Machine Learning</h3>
+<h3 align="center">AI & Data Science Graduate | Data Analyst </h3>
+<h4 align="center">Computer Vision • NLP • Machine Learning </h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayakrishnan004&label=Profile%20views&color=0e75b6&style=flat" alt="jayakrishnan004" />
@@ -14,7 +15,7 @@ B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on exp
 - 🔭 Currently focused on: **AI & Data Science related projects, Machine learning projects, cloud deployment, and Git/GitHub practices**
 - 🌱 Learning: Data Science & Analytics
 - 💬 Ask me about: **Computer Vision, NLP, Machine Learning**
-- 📫 Reach me at: **jayakrishnanvenugopal.2004@gmail.com** | 📱 +91 8593071680
+- 📫 Reach me at: **jayakrishnankv.2026@gmail.com** | 📱 +91 8593071680
 
 ---
 
@@ -30,10 +31,10 @@ B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on exp
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Crowd Motion Analysis using YOLOv8](#)** *(Mini Project – 3rd Year)* | Real-time crowd movement analysis from CCTV feeds using YOLOv8 & computer vision, with real-time Twilio alerts and dashboard monitoring. | Python, OpenCV, ML |
-| **[NLP-based Webpage Credibility Extension](#)** *(Final Year Project)* | Chrome extension for real-time web content verification — political bias detection, image reuse analysis, and content mismatch detection, generating credibility scores to flag misleading content. | Python, NLP, AI, ML, RAG |
-| **[InnerAI – AI-Powered Mental Health Chatbot](#)** | Conversational AI providing emotional support and stress-relief suggestions using sentiment-aware responses. | TypeScript, Gemini API, HTML/CSS/JS |
-| **[IoT-Based Emergency Vehicle Alert System](#)** | IoT system that notifies civilian drivers of approaching emergency vehicles to improve traffic response. | IoT, Firebase |
+| **[Crowd Motion Analysis using YOLOv8]** *(Mini Project – 3rd Year)* | Real-time crowd movement analysis from CCTV feeds using YOLOv8 & computer vision, with real-time Twilio alerts and dashboard monitoring. | Python, OpenCV, ML |
+| **[NLP-based Webpage Credibility Extension]** *(Final Year Project)* | Chrome extension for real-time web content verification — political bias detection, image reuse analysis, and content mismatch detection, generating credibility scores to flag misleading content. | Python, NLP, AI, ML, RAG |
+| **[InnerAI – AI-Powered Mental Health Chatbot]** | Conversational AI providing emotional support and stress-relief suggestions using sentiment-aware responses. | TypeScript, Gemini API, HTML/CSS/JS |
+| **[IoT-Based Emergency Vehicle Alert System]** | IoT system that notifies civilian drivers of approaching emergency vehicles to improve traffic response. | IoT, Firebase |
 
 > 💡 More projects coming soon — stay tuned!
 
@@ -87,7 +88,6 @@ B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on exp
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayakrishnan004&show_icons=true&theme=default" alt="Jayakrishnan's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnan004" alt="GitHub Streak" width="48%" />
 </p>
 
