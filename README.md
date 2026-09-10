@@ -21,9 +21,9 @@ B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on exp
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/><br>C</td>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/><br>Python</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/><br>C</td>
 <td align="center" width="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/><br>Jupyter
 </td>
