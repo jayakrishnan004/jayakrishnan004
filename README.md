@@ -2,7 +2,6 @@
 <h3 align="center">AI & Data Science Graduate | Data Analyst </h3>
 <h4 align="center">Computer Vision • NLP • Machine Learning </h4>
 
-
 ---
 
 ### 🧑‍💻 About Me
@@ -16,6 +15,32 @@ B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on exp
 
 ---
 
+<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/><br>C</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/><br>Jupyter
+</td>
+
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="45" height="45" alt="Google Colab"/><br>Google Colab
+</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/><br>Figma</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/><br>VSCode</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ### 🎓 Education
 
 | Qualification | Institution | Score | Year |
@@ -23,6 +48,7 @@ B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on exp
 | B.Tech in AI & Data Science | St. Joseph's College of Engineering and Technology, Palai (Autonomous), Kerala | CGPA 7.0 | 2022 – 2026 |
 
 ---
+
 
 ### 💻 Projects
 
