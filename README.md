@@ -12,7 +12,7 @@ B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on exp
 - 🌱 Learning: Data Science & Analytics
 - 💬 Ask me about: **Computer Vision, NLP, Machine Learning**
 - 📫 Reach me at: **jayakrishnankv.2026@gmail.com** | 📱 +91 8593071680
-
+  
 ---
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
