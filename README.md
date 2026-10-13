@@ -10,7 +10,7 @@ B.Tech. graduate in **Artificial Intelligence & Data Science** with hands-on exp
 
 - 🔭 Currently focused on: **AI & Data Science related projects, Machine learning projects, cloud deployment, and Git/GitHub practices**
 - 🌱 Learning: Data Science & Analytics
-- 💬 Ask me about: **Computer Vision, NLP, Machine Learning**
+- 💬 Ask me about: **Computer Vision, NLP, Machine Learning, Data Analytics**
 - 📫 Reach me at: **jayakrishnankv.2026@gmail.com** | 📱 +91 8593071680
   
 ---
